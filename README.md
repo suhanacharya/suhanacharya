@@ -10,6 +10,8 @@
 ### Spotify Playing 🎧
 [<img src="https://github-readme-spotify.suhanacharya.vercel.app/api/spotify" alt="Suhan Acharya Spotify Playing" width="350" />](https://open.spotify.com/user/31p2tfeujuy3hgxgvrjjvixgkm7m)
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="suhanacharya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
