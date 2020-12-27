@@ -29,6 +29,12 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#42](https://github.com/Mithil467/mitype/issues/42) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+2. 🗣 Commented on [#42](https://github.com/Mithil467/mitype/issues/42) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+3. 🗣 Commented on [#88](https://github.com/DedSecInside/Awesome-Scripts/issues/88) in [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts)
+4. 🗣 Commented on [#42](https://github.com/Mithil467/mitype/issues/42) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+5. 💪 Opened PR [#88](https://github.com/DedSecInside/Awesome-Scripts/pull/88) in [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts)
+<!--END_SECTION:activity-->
 
 ---
 
