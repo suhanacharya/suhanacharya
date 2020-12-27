@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything(Machine Learning, Deeplearning, Python dev)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts
+---
 
 ### Connect with me:
 
@@ -12,6 +13,7 @@
 [<img align="left" alt="suhanacharya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+---
 
 ### Languages, Framework and Tools that I use 🔧:
 
@@ -24,6 +26,10 @@
 [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/44167922/103168723-b45ab780-485b-11eb-991a-0ec1c8beb348.png" />][mysql]
 <br />
 <br />
+---
+
+<!--START_SECTION:activity-->
+
 ---
 
 <img align="left" alt="suhanacharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suhanacharya&show_icons=true&hide_border=true">
