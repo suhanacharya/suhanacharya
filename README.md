@@ -3,7 +3,7 @@
 ## I'm an Engineering student, Developer!
 
 - 🌱 I’m currently learning everything(Machine Learning, Deeplearning, Python dev)
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other open-source developers :)
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts
 ---
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/44167922/103169798-11a73680-4865-11eb-8c8a-dd0696340985.png" />][jupyter]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/44167922/103168723-b45ab780-485b-11eb-991a-0ec1c8beb348.png" />][mysql]
+[<img align="left" alt="Sqlite3" width="26px" src="https://simpleicons.org/icons/sqlite.svg" />][sqlite]
 <br />
 <br />
 
@@ -58,4 +58,4 @@
 [anaconda]: https://www.anaconda.com/
 [vscode]: https://github.com/Microsoft/vscode
 [github]: https://github.com/
-[mysql]: https://www.mysql.com/
+[sqlite]: https://sqlite.org/
