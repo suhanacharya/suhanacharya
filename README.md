@@ -8,8 +8,7 @@
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.suhanacharya.vercel.app
-/api/spotify-playing" alt="Suhan Acharya Spotify Playing" width="350" />](https://open.spotify.com/user/31p2tfeujuy3hgxgvrjjvixgkm7m)
+[<img src="https://novatorem.suhanacharya.vercel.app/api/spotify-playing" alt="Suhan Acharya Spotify Playing" width="350" />](https://open.spotify.com/user/31p2tfeujuy3hgxgvrjjvixgkm7m)
 
 ### Connect with me:
 
