@@ -7,12 +7,17 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts
 ---
 
+### Spotify Playing 🎧
+[<img src="https://novatorem.suhanacharya.vercel.app
+/api/spotify-playing" alt="Suhan Acharya Spotify Playing" width="350" />](https://open.spotify.com/user/31p2tfeujuy3hgxgvrjjvixgkm7m)
+
 ### Connect with me:
 
 [<img align="left" alt="suhanacharya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="suhanacharya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 ---
 
 ### Languages, Framework and Tools that I use 🔧:
@@ -26,7 +31,10 @@
 [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/44167922/103168723-b45ab780-485b-11eb-991a-0ec1c8beb348.png" />][mysql]
 <br />
 <br />
+
 ---
+
+### My activities 🔧:
 
 <!--START_SECTION:activity-->
 
