@@ -16,6 +16,8 @@
 
 [<img align="left" alt="suhanacharya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="suhanacharya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suhanacharya | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
@@ -35,7 +37,7 @@
 
 ---
 
-### My activities 🔧:
+### My activities 🏃‍♂️:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com/Mithil467/mitype/issues/42) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
@@ -52,6 +54,7 @@
 
 [twitter]: https://twitter.com/suhanacharya
 [linkedin]: https://linkedin.com/in/suhanacharya
+[discord]: https://discordapp.com/users/suhanacharya#8840/
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
 [jupyter]: https://jupyter.org/
