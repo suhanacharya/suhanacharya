@@ -40,6 +40,7 @@
 ### My activities 🏃‍♂️:
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/suhanacharya/Indian-Sign-Language-Classifier/issues/1) in [suhanacharya/Indian-Sign-Language-Classifier](https://github.com/suhanacharya/Indian-Sign-Language-Classifier)
 <!--END_SECTION:activity-->
 
 ---
