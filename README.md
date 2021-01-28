@@ -40,7 +40,7 @@
 ### My activities 🏃‍♂️:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/so-sc/war-room/issues/25) in [so-sc/war-room](https://github.com/so-sc/war-room)
+1. 🎉 Merged PR [#1](https://github.com/suhanacharya/prycey/pull/1) in [suhanacharya/prycey](https://github.com/suhanacharya/prycey)
 <!--END_SECTION:activity-->
 
 ---
