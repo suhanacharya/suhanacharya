@@ -25,9 +25,6 @@
 
 <img align="left" alt="suhanacharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suhanacharya&show_icons=true&hide_border=true">
 
-<br />
-
-### Spotify Playing 🎧
 [<img src="https://github-readme-spotify.suhanacharya.vercel.app/api/spotify" alt="Suhan Acharya Spotify Playing" width="350" />](https://open.spotify.com/user/31p2tfeujuy3hgxgvrjjvixgkm7m)
 
 
