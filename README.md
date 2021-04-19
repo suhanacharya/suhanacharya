@@ -14,13 +14,6 @@
 
 <br />
 
-### My activities 🏃‍♂️:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suhanacharya/prycey/pull/1) in [suhanacharya/prycey](https://github.com/suhanacharya/prycey)
-<!--END_SECTION:activity-->
-
-
 ---
 
 <img align="left" alt="suhanacharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suhanacharya&show_icons=true&hide_border=true">
