@@ -2,9 +2,9 @@
 
 ## I'm an Engineering student, Developer!
 
-- 🌱 I’m currently learning everything(Machine Learning, Deeplearning, Python dev)
-- 👯 I’m looking to collaborate with other open-source developers :)
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts
+- ~~🌱 I’m currently learning everything(Machine Learning, Deeplearning, Python dev)~~
+- ~~👯 I’m looking to collaborate with other open-source developers :)~~
+- ~~🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts~~
 ---
 
 ### Connect with me:
