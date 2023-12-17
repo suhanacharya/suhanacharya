@@ -1,10 +1,10 @@
 ### Hi there, I'm Suhan Acharya 👋
 
-## I'm an Engineering student, Developer!
+## I'm a Software Engineer ⛏️
 
-- ~~🌱 I’m currently learning everything(Machine Learning, Deeplearning, Python dev)~~
-- ~~👯 I’m looking to collaborate with other open-source developers :)~~
-- ~~🥅 2021 Goals: Contribute more to Open Source projects, learn webdev, listen to more podcasts~~
+- 🌱 Learning Distributed Systems, Storage and computation.
+- 👯 I’m looking to learn and share my knowledge as I learn niche interesting topics!
+- 🕹️ I like retro games 
 ---
 
 ### Connect with me:
